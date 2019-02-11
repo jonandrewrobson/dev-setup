@@ -235,7 +235,7 @@ Here is a quick list of some apps I use, and that you might find useful as well:
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! I use Google Docs a lot to collaborate with others (edit a document with multiple people in real-time!), and sometimes upload other non-Google documents (pictures, etc.), so the app comes in handy for that. **(Free for 5GB)**
 - [Slack](https://slack.com/): Messaging app that allows you to quickly communicate with your team and supports markdown.
 - [Last Pass](https://www.lastpass.com/): Allows you to securely store your login and passwords. Even if you only use a few different passwords (they say you shouldn't!), this is really handy to keep track of all the accounts you sign up for.
-- [Macdown](https://macdown.uranusjr.com/): As a developer, most of the stuff you write ends up being in [Markdown](http://daringfireball.net/projects/markdown/). In fact, this `README.md` file (possibly the most important file of a GitHub repo) is indeed in Markdown, written in Sublime Text, and I use Marked to preview the results everytime I save. **($4)**
+- [Macdown](https://macdown.uranusjr.com/): As a developer, most of the stuff you write ends up being in [Markdown](http://daringfireball.net/projects/markdown/). In fact, this `README.md` file (possibly the most important file of a GitHub repo) is writeen in Markdown.
 
 
 
